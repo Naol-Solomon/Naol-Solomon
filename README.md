@@ -1,9 +1,9 @@
-  👋 Hi, I’m @Naol-Solomon
-  👀 I’m interested in Coding and Graphic Designing
-  🌱 I’m currently learning Computer Science | Software Engineering | Graphic Designing
-  💞️ I’m looking to collaborate on ALX SE project  and any  pproject related to Graphic designing
+-  👋 Hi, I’m @Naol-Solomon
+- 👀 I’m interested in Coding and Graphic Designing
+- 🌱 I’m currently learning Computer Science | Software Engineering | Graphic Designing
+- 💞️ I’m looking to collaborate on ALX SE project  and any  project related to Graphic designing
                     
-                      📫 Reach me
+                      📫 Reach me through
                       github: Naol-Solomon
                       linkedIn: https://www.linkedin.com/in/naol-solomon
                       Email: naolsolomon10@gmail.com
