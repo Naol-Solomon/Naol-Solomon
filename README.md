@@ -10,4 +10,3 @@
                       Email: naolsolomon10@gmail.com
 
   Here is my personal Website: https://naol-solomon.github.io/html-portfolio/
-  <img align="left" alt="Advanced Language" src="https://www.google.com/search?q=official+html+logo&tbm=isch&rlz=1C1SLLM_enET1056ET1056&hl=en&sa=X&ved=2ahUKEwinnqOSipCDAxW3nCcCHUzSBuEQrNwCKAB6BQgBEJgC&biw=1519&bih=695#imgrc=6n3RWMK8I9jbQM" />
