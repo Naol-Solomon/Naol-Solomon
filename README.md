@@ -7,3 +7,5 @@
                       github: Naol-Solomon
                       linkedIn: https://www.linkedin.com/in/naol-solomon
                       Email: naolsolomon10@gmail.com
+
+  Her is my personal Website: https://naol-solomon.github.io/html-portfolio/
