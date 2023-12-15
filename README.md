@@ -9,4 +9,4 @@
                       linkedIn: https://www.linkedin.com/in/naol-solomon
                       Email: naolsolomon10@gmail.com
 
-  Here is my personal Website: https://naol-solomon.github.io/html-portfolio/
+  For more information:  https://naol-solomon.github.io/Resume/
